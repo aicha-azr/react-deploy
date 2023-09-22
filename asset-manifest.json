@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.bca2bf21.css",
+    "main.js": "/react-deploy/static/js/main.b4958c17.js",
+    "static/js/787.1ed0c42c.chunk.js": "/react-deploy/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Work4.png": "/react-deploy/static/media/Work4.976af635a70e7d13bb4f.png",
+    "static/media/Work3.png": "/react-deploy/static/media/Work3.2cfa1e1a231d96fe14f2.png",
+    "static/media/Work2.png": "/react-deploy/static/media/Work2.21f4aaf295809ef97a4d.png",
+    "static/media/real aicha.jpg": "/react-deploy/static/media/real aicha.dd6af14e6f8a22007f70.jpg",
+    "static/media/portfolio2003.png": "/react-deploy/static/media/portfolio2003.51e524bea5cbef078479.png",
+    "static/media/logo1.png": "/react-deploy/static/media/logo1.f99ea3fbad362cc5a49c.png",
+    "static/media/CV.pdf": "/react-deploy/static/media/CV.5624b7d47b21fc153234.pdf",
+    "index.html": "/react-deploy/index.html",
+    "main.bca2bf21.css.map": "/react-deploy/static/css/main.bca2bf21.css.map",
+    "main.b4958c17.js.map": "/react-deploy/static/js/main.b4958c17.js.map",
+    "787.1ed0c42c.chunk.js.map": "/react-deploy/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bca2bf21.css",
+    "static/js/main.b4958c17.js"
+  ]
+}
